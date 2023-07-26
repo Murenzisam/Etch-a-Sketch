@@ -50,7 +50,7 @@ function getSize(){
         message.innerHTML = "Provide a number between 1 and 100"
     }
     else{
-        message.innerHTML = "Now you can sketch!"
+        message.innerHTML = "Now you can draw!"
         return input;
     }
 }
