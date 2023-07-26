@@ -1,7 +1,12 @@
-html{
+html {
+    font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: medium;
-}
+    background-image: url('https://tinyurl.com/ymjz5hv2');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(0, 0, 0);
+  }
 body{
     display: flex;
     justify-content: center;
